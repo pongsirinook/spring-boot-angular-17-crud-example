@@ -5,7 +5,7 @@ This is not my project, referent to it original [here](https://github.com/arctic
 ```
 cd angular-17-client
 mvn clean package
-java -jar spring-boot-jpa-h2-0.0.1-SNAPSHOT.jar
+java -jar /target/spring-boot-jpa-h2-0.0.1-SNAPSHOT.jar
 ```
 The Spring Boot Server will export API at port `8080`.
 
